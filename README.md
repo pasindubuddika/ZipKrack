@@ -15,7 +15,7 @@ Crack zip files password.
 
 * apt install git
 
-* git clone 
+* git clone https://github.com/pasindubuddika/ZipKrack.git
 * cd ZipKrack
 
 * python3 zipkrack.py
